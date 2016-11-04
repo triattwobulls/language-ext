@@ -12,6 +12,7 @@ namespace LanguageExt
     /// AVL tree is a self-balancing binary search tree. 
     /// http://en.wikipedia.org/wiki/AVL_tree
     /// </summary>
+    [Serializable]
     public static class Set
     {
         /// <summary>
